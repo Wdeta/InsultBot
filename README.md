@@ -1,2 +1,2 @@
-# Wdeta
+# Insult Bot
 Insult Bot
